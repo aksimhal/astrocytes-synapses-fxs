@@ -1,0 +1,1 @@
+MATLAB scripts needed to generate masks based on the DAPI image volume. "dapi_mask.m" is the "runme" to generate the masks. "dapi_mask_22ss" is the file to create masks for the volume labeled "22ss."
