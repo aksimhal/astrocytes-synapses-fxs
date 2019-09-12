@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+code/mask/2ss_DAPIAligned.tif
+code/mask/output_masks/DAPI-mask.tiff
